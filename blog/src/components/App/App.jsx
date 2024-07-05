@@ -1,15 +1,14 @@
-// import { useState } from 'react'
-import Header from '../Header/Header'
-import Main from '../Main/Main'
+import Header from '../Header/Header';
+import Main from '../Main/Main';
 
-import './App.css'
+
+import styles from './styles.module.css'
 
 function App() {
-  // const [count, setCount] = useState(0)
-
+  
   return (
     <>
-    <div className='page'>
+    <div className={styles.page}>
     <Header />
     <Main />
     </div>
