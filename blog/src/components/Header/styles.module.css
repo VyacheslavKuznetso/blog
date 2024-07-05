@@ -1,11 +1,11 @@
 .header {
-    position: fixed;
-    top: 0;
-    left: 0;
     width: 100%;
     border-bottom: 1px solid #424242;
     display: flex;
     background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
 }
 
 .header__logo {
@@ -22,6 +22,6 @@
     padding: 0;
 }
 
-.logo-text {
+.logo__text {
     margin: 0;
 }

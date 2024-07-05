@@ -1,10 +1,11 @@
 import CardBlog from '../CardBlog/CardBlog';
-import './Main.css';
+
+import styles from './styles.module.css';
 
 
 function Main() {
     return (
-        <div className='main'>
+        <div className={styles.main}>
             <CardBlog />
         </div>
     )
