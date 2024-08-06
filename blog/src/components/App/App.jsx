@@ -9,8 +9,8 @@ function App() {
   return (
     <>
     <div className={styles.page}>
-    <Header />
-    <Main />
+      <Header />
+      <Main /> 
     </div>
   </>
   )
