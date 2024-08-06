@@ -21,20 +21,3 @@
     height: 400px;
     object-fit: contain;
 }
-
-.text {
-    box-sizing: border-box;
-    width: 100%;
-    padding: 40px;
-    column-gap: 15px;
-}
-
-.text__title {
-    margin: 0 0 15px ;
-    color: #000000;
-}
-
-.text__subtitle {
-    margin: 0;
-    color: #868e96;
-}

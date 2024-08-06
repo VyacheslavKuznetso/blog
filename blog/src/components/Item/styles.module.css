@@ -1,0 +1,18 @@
+.text {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 40px;
+}
+
+.text__title {
+    text-decoration: none;
+    color: #000000;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.text__subtitle {
+    margin: 15px 0 0;
+    color: #868e96;
+    font-size: 18px;
+}
